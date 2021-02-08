@@ -1,1 +1,0 @@
-{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nconst ServicesBannerHeading = () => {\n  return __jsx(\"div\", {\n    className: \"services-banner-heading\"\n  }, __jsx(\"p\", null, \"Holistic Business mentoring to deliver higher growth and profits\"));\n};","map":null,"metadata":{},"sourceType":"module"}
