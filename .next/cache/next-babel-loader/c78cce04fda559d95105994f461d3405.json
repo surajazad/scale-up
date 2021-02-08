@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nconst GrowthTipsContent = () => {\n  return __jsx(\"div\", {\n    className: \"growth-tips\"\n  }, \"Growth tips\");\n};\n\nexport default GrowthTipsContent;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,994 @@
+.service-line-one-content .text h3 {
+    text-align: center;
+}
+
+.service-line-one-content .tech-content .bar {
+    margin: 0 auto;
+}
+
+.service-line-one-content .services-details .tech-section {
+    padding: 4%;
+}
+
+.service-line-one-content .tech-section-buttons {
+    display: flex;
+    justify-content: center;
+    height: 228px;
+}
+
+.service-line-one-content .tech-section-buttons .tech-btn {
+    margin-left: 7%;
+    align-self: flex-end;
+}
+
+.service-line-one-content .tech-section-buttons .tech-btn .default-btn {
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+.contact-section .default-btn a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.services-banner-heading {
+    background: #ccc;
+    display: flex;
+    flex-direction: column;
+    padding: 50px 20px 20px 20px;
+}
+
+.services-banner-heading p {
+    font-size: 22px;
+    color: black;
+    width: 35%;
+    margin: 30px 10px;
+}
+
+.services-banner-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+}
+
+.services-banner-buttons button {
+    padding: 5px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #ccc;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.approach-and-methodology {
+    padding: 20px 12%;
+    border: 1px solid black;
+    margin: 30px 5px;
+    margin-bottom: 0;
+}
+
+.we-understand-your-business {
+    display: flex;
+    justify-content: center;
+}
+
+.we-understand-your-business .features-content {
+    text-align: center;
+    margin-bottom: 40px;;
+}
+
+.newsletter-form {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.business-strategy-details .title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.business-strategy-details .title h3 {
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+.business-strategy-details .title h4 {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+.business-strategy-details .features-section {
+    background-color: #f0f4f8;
+}
+
+.business-strategy-details .experience-section {
+    background-color: #f0f4f8 
+}
+
+.approach-and-methodology {
+    border: none;
+    margin: 0;
+}
+
+.approach-and-methodology .single-services {
+    padding: 100px;
+    border-radius: 200px;
+    height: 300px;
+}
+
+.approach-and-methodology .single-services:before {
+    border-radius: 200px;
+    background: none;
+}
+
+.approach-and-methodology .single-services p {
+    color: #666;
+}
+
+.approach-design {
+    display: flex;
+    justify-content: space-around;
+    height: 350px;
+}
+
+.approach-design-concept {
+    display: flex;
+    justify-content: space-around;
+}
+
+.approach-design .circle, .approach-design-concept .circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 230px;
+    font-size: 14px;
+    text-align: center;
+    background: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.approach-design .circle p {
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+    color: #000;
+}
+
+.approach-design .firstCircle {
+    align-self: flex-end;
+}
+
+.approach-design .secondCircle {
+    align-self: center;
+}
+
+.results .individual-result {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+.results .individual-result .image-container {
+    height: 70px;
+    width: 70px;
+    background-color: #ccc;
+}
+.results .individual-result .result-text {
+    margin-left: 20px;
+}
+
+.results-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.results-container .results {
+    margin-top: 35px;
+}
+
+.image-container img {
+    height: 300px;
+    width: 300px;
+}
+
+.business-case-studies {
+    margin-top: 0;
+    border-top: none;
+}
+
+.business-case-studies .results-container .row{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* .service-footer {
+    background-color: #ccc;
+    display: flex;
+    padding: 20px 0;
+    justify-content: space-around;
+}
+
+.service-footer button { 
+    background-color: #ccc;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 0 30px;
+    cursor: pointer;
+} */
+
+.service-footer .subscribe-content h2 {
+    position:relative;
+    top: 40px;
+}
+
+.details .exp-guides p{
+    margin: 0;
+}
+
+.our-services-home .content .read-btn {
+    padding: 10px 30px;
+    cursor: pointer;
+    align-self: flex-end;
+    color: #fff;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.our-services-home .image {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 55px 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.our-services-home .image h2 {
+    justify-content: end;
+    align-items: initial;
+    font-weight: 400;
+}
+
+.our-services-home .content p {
+    padding: 20px 20px 20px 20px;
+}
+
+.our-services-home .content a {
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.our-services-home .first-service-card .image {
+    background: transparent url(https://thedigitalfellow.com/tdf_web/wp-content/uploads/2020/01/Asset-4.png) 0% 0%/auto repeat scroll;
+}
+
+.our-services-home .first-service-card .image h2 {
+    color: #fb9a9c;
+}
+
+.our-services-home .first-service-card .content a {
+    color: #ffffff;
+    background-color: #fa5f64;
+    border: 2px solid #fa5f64;
+}
+
+.our-services-home .first-service-card .content a:hover {
+    color: #fa5f64 !important;
+    background-color: #ffffff !important;
+    border: 2px solid #fa5f64 !important;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.our-services-home .second-service-card .image {
+    background: transparent url(https://thedigitalfellow.com/tdf_web/wp-content/uploads/2020/01/Asset-5.png) 0% 0%/auto repeat scroll;
+}
+
+.our-services-home .second-service-card .image h2 {
+    color: #b9cdf2;
+}
+
+.our-services-home .second-service-card .content a {
+    color: #ffffff;
+    background-color: #5c93e6;
+    border: 2px solid #5c93e6;
+}
+
+.our-services-home .second-service-card .content a:hover {
+    color: #5c93e6 !important;
+    background-color: #ffffff;
+    border: 2px solid #5c93e6 !important;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.our-services-home .third-service-card .image {
+    background: transparent url(https://thedigitalfellow.com/tdf_web/wp-content/uploads/2020/01/Asset-6.png) 0% 0%/auto repeat scroll;
+}
+
+.our-services-home .third-service-card .image h2 {
+    color: #bfb6d7;
+}
+
+.our-services-home .third-service-card .content a {
+    color: #ffffff;
+    background-color: #6e55ab;
+    border: 2px solid #6e55ab;
+}
+
+.our-services-home .third-service-card .content a:hover {
+    color: #6e55ab !important;
+    background-color: #ffffff;
+    border: 2px solid #6e55ab !important;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.our-services-home .single-blog {
+    background: #ffffff;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding: 0;
+    border: 2px solid #f1f1f1;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 5px #f1f1f1;
+}
+
+
+/* --------------   growth-tips-css -----------------*/
+.growth-tips .text{
+    text-align: center;
+    margin: 10px 0 30px;
+}
+
+.growth-tips .banner-heading {
+    background-color: #ccc;
+    display: flex;
+    padding: 20px;
+}
+
+.main-banner-content .banner-heading img {
+    width: 30%;
+}
+
+.growth-tips .left-side-heading {
+    padding: 20px;
+    background-color: #fff;
+    margin-right: 24px;
+    border: 1px solid #000;
+    display: flex;
+}
+
+.growth-tips .left-side-heading h3 {
+    line-height: 45px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: normal;
+    align-self: center;
+}
+
+.growth-tips .right-side-content {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.growth-tips .right-side-content p {
+    margin-bottom: 20px;
+    margin-left: 0;
+}
+
+.growth-tips .single-services h3 {
+    margin: 70px 0 50px;
+}
+
+.growth-tips .default-btn {
+    border-radius: 20px;
+    border: none;
+    align-self: flex-end;
+    cursor: pointer;
+}
+
+.section-title h2 {
+    font-size: 50px;
+    margin: 20px 0 0;
+    position: relative;
+    line-height: 1.1;
+}
+
+.section-title .bar {
+    margin: 20px auto 20px;
+}
+
+.growth-tips .banner-heading .text-content p {
+    color: #000;
+    font-size: 12px;
+}
+
+.growth-tips .banner-heading .banner-bottom-content {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+.growth-tips .banner-heading .banner-bottom-content button {
+    padding: 5px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #ccc;
+    margin-right: 30px;
+    cursor: pointer;
+    align-self: flex-end;
+    margin-top: 15px;
+}
+
+/* --------------   quiz-css -----------------*/
+
+/* .quiz-content {
+    margin-top: -20px;
+    padding-top: 20px;
+} */
+
+.quiz-content .text{
+    text-align: center;
+    margin: 30px 0;
+    font-size: 20px;
+}
+
+.quiz-content .submit {
+    /* padding: 5px 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #ccc;
+    cursor: pointer; */
+    background-color: #086ad8;
+    color: #fff;
+    border: none;
+    height: 62px;
+    padding: 0 50px;
+    border-radius: 10px;
+    transition: .5s;
+    line-height: 50px;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.quiz-content .submit:hover {
+    background-color: #212121;
+    color: #fff;
+}
+
+.quiz-content .submit-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+/* --------------- Question-css ----------------*/
+
+.question-content {
+    /* border: 1px solid #000; */
+    margin-top: 20px;
+}
+
+.question-content .question-section {
+    display: flex;
+    /* border-bottom: 1px solid #000; */
+}
+
+.question-content .question-section:nth-child(even) {
+    background-color: #f0f4f8;
+}
+
+.question-section .single-services, .result-container .single-services{
+    margin-top: 14%;
+    margin-right: 17%;
+    padding: 60px;
+}
+
+.question-content .left-side-heading-content {
+    background-color: #ccc;
+    margin: 40px 25px;
+    text-align: center;
+    padding: 30px;
+}
+
+.question-content .right-side-question-content {
+    margin-top: 40px;
+}
+
+.question-content .question-title {
+    margin: 15px 0;
+}
+
+.question-content .answer-options {
+    margin: 15px 70px 35px 0;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+.question-content .answer-options .option input {
+    margin-right: 15px;
+}
+
+.question-content .answer-options .option label {
+    line-height: 1.8;
+    color: #666;
+    font-weight: 400;
+    font-family: Open Sans,sans-serif;
+    font-size: 15px;
+}
+
+/* --------------- Result-css ----------------*/
+
+.result-container {
+    display: flex;
+}
+
+.result-container .left-side-box {
+    padding: 40px;
+    margin: 0 20px 0;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    border: 1px solid #000;
+    background-color: #eee;
+}
+
+.result-container .left-side-box p {
+    font-size: 23px;
+    color: #000;
+    font-weight: normal;
+}
+
+.result-container .result-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.result-container .result-content .thank-you-text,.result-container .result-content h5 {
+    text-align: center;
+}
+
+.result-container .result-content .score-indicator {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin: 20px 0;
+    padding: 20px 10px;
+}
+
+.result-container .result-content .page-report {
+    padding: 0 10px;
+}
+
+.result-container .result-content .download-button{
+    display: flex;
+    justify-content: center;
+}
+
+.download-result-content .result-content {
+    width: 70%;
+}
+
+.download-result-content .contact-section {
+    padding: 30px 0;
+}
+
+.download-result-content .left-side-box {
+    width: 20%;
+    margin-right: 100px;
+    border: 1px solid #000;
+    background-color: #eee;
+}
+
+.download-result-content .download-form-input-field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.download-result-content .download-form-input-field input {
+    margin: 10px 0;
+    width: 55%;
+}
+
+/* ---------------- Case studies css ------------------- */
+
+.case-studies-container .container .text {
+    text-align: center;
+    margin: 20px;
+}
+
+.single-blog .content {
+    text-align: center;
+}
+
+.case-studies-sub-component-container .container .text {
+    text-align: center;
+    margin: 20px;
+}
+
+.case-studies-sub-component-container .strategic-plans {
+    margin-top: 30px;
+}
+
+.case-studies-sub-component-container .strategic-plans .more-features-content {
+    text-align: left;
+}
+
+.case-studies-sub-component-container .strategic-plans .more-features-content h3 {
+    position: relative;
+    top: -30px;
+}
+
+.case-studies-sub-component-container .strategic-plans .more-features-content .details-list {
+    padding: 0 20px 20px;
+}
+
+.footer-section .newsletter-form-container {
+    align-self: flex-start;
+}
+
+.footer-section .subscribe-area .subscribe-content h2 {
+    margin-top: 25px;
+}
+
+/* --------------------------- About Us css --------------------------- */
+
+.about-section-container .services-details .text {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.about-section-container .services-details .services-banner-heading p {
+    margin: 60px 10px;
+}
+
+.story-behind-scaleUp, .about-founder-container {
+    margin: 40px 0;
+}
+
+/* .about-founder-container .about-image img {
+    display: block;
+} */
+
+.vision-mission-values {
+    line-height: 1.8;
+    color: #666;
+    font-weight: 400;
+    font-family: Open Sans,sans-serif;
+    font-size: 15px;
+    display: flex;
+}
+
+.story-behind-scaleUp .about-tab .bar, .about-founder-container .about-tab .bar {
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.story-behind-scaleUp h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.story-behind-scaleUp h2, .about-founder-container h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.story-behind-scaleUp .story-behind-scaleUp-container {
+    display: flex;
+}
+
+.logo-and-sub-heading {
+    display: flex;
+    flex-direction: column;
+    padding-left: 60px;
+}
+
+.logo-and-sub-heading img {
+    object-fit: contain;
+    border: 1px solid #000;
+    margin-bottom: 30px;
+}
+
+.logo-and-sub-heading  h6 {
+    text-align: center;
+    font-size: 10px;
+}
+
+.story-behind-scaleUp-content p{
+    margin: 0;
+    line-height: 16px;
+    font-size: 12px;
+}
+
+.about-founder-container .about-founder-content {
+    display: flex;
+}
+
+.about-founder-container .about-founder-content img{
+    object-fit: contain;
+    margin-right: 10%;
+}
+
+.about-founder-container .about-founder-text p{
+    line-height: 16px;
+    font-size: 12px;
+}
+
+.about-section-container .about-tab {
+    padding: 20px 0;
+}
+
+.vision-mission-values .vision-mission-values-content {
+    margin: 10px 0 25px;
+}
+
+.vision-mission-values .core-values ul {
+    padding-left: 20px;;
+}
+
+.contact-section .contact-text h3 {
+    text-align: center;
+}
+
+/* .contact-section .contact-image {
+    background-color: #ccc;
+    padding: 70px;
+    text-align: center;
+} */
+
+.contact-section .contact-image p {
+    font-size: 30px;
+    color: #000;
+}
+
+/* ------------------- Hamburger header css --------------------- */
+
+.others-options {
+    display: none;
+}
+
+/* ------------------- navbar css --------------------- */
+
+/* .navbar {
+    background-color: #ccc;
+    border: 1px solid #000;
+} */
+
+.navbar .navbar-brand img {
+    object-fit: contain;
+    width: 50%;
+}
+
+/*---------------------- landing page css --------------------- */
+
+.landing-page-section {
+    display: flex;
+    justify-content: center;
+}
+
+.landing-page-section .content p{
+    font-size: 14px;
+    padding: 0 20%;
+}
+
+.landing-page-section .view-more {
+    display: flex;
+}
+
+.landing-page-section .view-more button{
+    /* padding: 5px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #ccc;
+    margin-right: 30px;
+    cursor: pointer; */
+    background-color: #086ad8;
+    color: #fff;
+    border: none;
+    height: 62px;
+    padding: 0 30px;
+    border-radius: 10px;
+    -webkit-transition: .5s;
+    transition: .5s;
+    line-height: 50px;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    width: 170px;
+    margin: 0 auto;
+}
+
+.download-button .download-now-button {
+    padding: 14px 35px;
+    background-color: #086ad8;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 30px;
+    margin: 20px 0;
+    border: none;
+}
+
+.download-button .download-now-button:hover {
+    background-color: #10dce8;
+    color: #fff;
+}
+
+.landing-page-section .view-more button:hover {
+    background-color: #212121;
+    color: #fff;
+}
+
+.services-section {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.blog-section {
+    background-color: #f0f1fe;
+    padding-top: 20px;
+}
+
+.home-page-item-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.custom-btn-banner .default-btn {
+    color: #ffffff;
+    background-color: #5c93e6;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    border: 2px solid #5c93e6;
+    border-radius: 40px 40px 40px 40px;
+    cursor: pointer;
+    margin-top: 10%;
+    text-decoration: none;
+}
+
+.custom-btn-banner .default-btn:hover {
+    color: #5c93e6 !important;
+    background-color: #ffffff;
+    border: 2px solid #5c93e6 !important;
+    border-radius: 40px 40px 40px 40px;
+}
+
+
+
+/* ---------------- mobile css --------------------- */
+
+@media only screen and (max-width: 767px) {
+    .ptb-100 {
+        padding-top: 90px;
+    }
+
+    .home-page-item-1 {
+        flex-direction: column;
+    }
+
+    .custom-banner {
+        width: 90%;
+    }
+
+    /* .service-footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .service-footer h2 {
+        text-align: center;
+    }
+
+    .service-footer button {
+        width: 50%;
+        align-self: center;
+        margin-top: 20px;
+    } */
+
+    .navbar .navbar-brand {
+        width: 75%;
+    }
+
+    .services-section {
+        padding-top: 100px;
+    }
+
+    .about-section-container {
+        padding-top: 0;
+        margin: 75px 0;
+    }
+
+    .about-founder-container .about-founder-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .services-banner-heading {
+        padding: 0;
+    }
+
+    .services-banner-heading p {
+        width: 95%;
+    }
+
+    .services-banner-heading .services-banner-buttons {
+        padding-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .services-banner-heading .services-banner-buttons button:first-child {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    
+    .results-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .approach-design-concept .circle, .approach-design .circle {
+        margin-right: 10px;
+    }
+
+    .story-behind-scaleUp-container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .story-behind-scaleUp-container .logo-and-sub-heading {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;
+    }
+
+    .question-content .question-section {
+        flex-direction: column;
+        margin-bottom: 40px;
+    }
+
+    .question-content .question-section .single-services {
+        padding: 20px;
+        margin: 20px;
+    }
+
+    .question-content .question-section .right-side-question-content {
+        margin-top: 0;
+        padding-left: 20px;
+    }
+}
+
+/* -------------- main banner slider 2 css ------------------- */
+
+.main-banner-content-2 .banner-heading {
+    justify-content: center;
+}
+
+.main-banner-content-2 .banner-heading .slider-2-left-img {
+    width: 24%;
+    object-fit: contain;
+}
+
+.main-banner-content-2 .banner-heading .slider-2-right-img {
+    width: 44%;
+    margin-left: 40px;
+    object-fit: contain;
+    z-index: 100;
+}
+
+.main-banner-content-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.main-banner-content-4 img {
+    width: 70%;
+    z-index: 100;
+}

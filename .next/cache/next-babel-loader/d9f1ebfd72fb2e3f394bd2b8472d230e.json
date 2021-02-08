@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport quizData from '../QuizData/QuizData';\n\nvar Question = function Question() {\n  console.log(quizData);\n  return __jsx(\"div\", {\n    className: \"question-content\"\n  }, \"quiz question section\");\n};\n\nexport default Question;","map":null,"metadata":{},"sourceType":"module"}
